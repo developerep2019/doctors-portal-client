@@ -31,7 +31,7 @@ const Footer = () => {
         {name: "Check Up" , link: "/checkup"},
         {name: "Treatment of Personal Diseases" , link: "/personal-treatment"},
         {name: "Tooth Extraction" , link: "/tooth-extract"},
-        {name: "Check Up" , link: "/checkup"},
+        {name: "Admin Login" , link: "/dashboard/appointment"},
         {name: "Check Up" , link: "/checkup"},
         {name: "Check Up" , link: "/checkup"}
     ]
